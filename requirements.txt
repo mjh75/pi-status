@@ -1,0 +1,2 @@
+psutil==5.9.7
+smbus==1.1.post2
