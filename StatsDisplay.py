@@ -1,6 +1,3 @@
-#from board import SCL, SDA
-#import busio
-#import adafruit_ssd1306
 import time
 import shutil
 import psutil
